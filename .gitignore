@@ -10,3 +10,4 @@ wheels/
 .venv
 semanticvenv/
 .env/
+.env
